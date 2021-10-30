@@ -1,0 +1,16 @@
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\bin\Debug\net5.0\if-else-ternary.exe
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\bin\Debug\net5.0\if-else-ternary.deps.json
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\bin\Debug\net5.0\if-else-ternary.runtimeconfig.json
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\bin\Debug\net5.0\if-else-ternary.runtimeconfig.dev.json
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\bin\Debug\net5.0\if-else-ternary.dll
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\bin\Debug\net5.0\ref\if-else-ternary.dll
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\bin\Debug\net5.0\if-else-ternary.pdb
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\obj\Debug\net5.0\if-else-ternary.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\obj\Debug\net5.0\if-else-ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\obj\Debug\net5.0\if-else-ternary.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\obj\Debug\net5.0\if-else-ternary.AssemblyInfo.cs
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\obj\Debug\net5.0\if-else-ternary.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\obj\Debug\net5.0\if-else-ternary.dll
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\obj\Debug\net5.0\ref\if-else-ternary.dll
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\obj\Debug\net5.0\if-else-ternary.pdb
+C:\Users\adm\Desktop\Kodluyoruz project\Patika-c-sharp\if-else-ternary\obj\Debug\net5.0\if-else-ternary.genruntimeconfig.cache
